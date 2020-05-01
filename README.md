@@ -1,4 +1,4 @@
-![Diabetes-Onset-Detection-with-SVM/KNN](https://miro.medium.com/max/2560/1*TJapPdGxjpOh5FxDwG18rQ.jpeg)
+![Diabetes-Onset-Detection-with-SVM/KNN](https://miro.medium.com/max/3064/1*INSggrGiQ1lCgU8YTsfEVw.png)
 # Diabetes Onset Detection Using Supervised Machine Learning Techniques
 We obtained the Diabetes Onset Dataset from Kaggle's website and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of classification techniques like Support Vector Machine (SVM) and K-Nearest Neighbor (K-NN).
 ## A. Feature Selection
@@ -25,7 +25,8 @@ Data is divided using KFold in sklearn library.
 # Result =>
 Accuracy:
 * SVM -> 92.4%
-* KNN -> 82.3%
+* KNN -> 82.3% <br />
+<br />
 (which is quite better than https://github.com/balshersingh10/Diabetes-Onset-Detection-with-Deep-Learning)
 ## Files included in repository are:
 - **source.ipynb(Jupyter Notebook-https://jupyter.org/)**
