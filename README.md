@@ -27,8 +27,7 @@ Accuracy:
 * SVM -> 92.4%
 * KNN -> 82.3% <br />
 <br />
-(which is quite better than https://github.com/balshersingh10/Diabetes-Onset-Detection-with-Deep-Learning)
-<br /> <br />
+(which is quite better than https://github.com/balshersingh10/Diabetes-Onset-Detection-with-Deep-Learning)<br />
 ## Files included in repository are:
 - **source.ipynb(Jupyter Notebook-https://jupyter.org/)**
 - **source.pdf(Just a pdf print of jupyter notebook)**
